@@ -21,7 +21,8 @@
 }
 
 .header a {
-  color: var(--color-grey-100);
+  /* color: var(--color-grey-100); */
+  color: #FFFFFF;
   font-size: var(--size-4);
 }
 
