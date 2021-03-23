@@ -7,7 +7,8 @@ function MainNavigation() {
   return (
     <header className={classes.header}>
       <Link href='/'>
-        <a>
+        {/* aリンクはテキスト以外の場合に必要 */}
+        <a>　
           <Logo />
         </a>
       </Link>

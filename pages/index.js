@@ -12,7 +12,7 @@ function HomePage(props) {
         <title>Django Startup</title>
         <meta
           name='description'
-          content='I post about programming and web development.'
+          content='NextJS Blog site'
         />
       </Head>
       <Hero />
